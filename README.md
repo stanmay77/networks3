@@ -205,6 +205,7 @@ default via 74.201.72.49 dev primary proto static
 10.8.0.2 dev tun0 proto kernel scope link src 10.8.0.1 
 74.201.72.48/29 dev primary proto kernel scope link src 74.201.72.50 
 192.168.30.0/24 via 74.201.72.49 dev primary 
+```
 
 3. Проверьте открытые TCP-порты в Ubuntu. Какие протоколы и приложения используют эти порты? Приведите несколько примеров.
 
